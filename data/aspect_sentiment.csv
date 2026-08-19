@@ -1,0 +1,22 @@
+post_id,aspect,text,sentiment_score,sentiment
+1,features,I absolutely love the new AI features! They are amazing.,0.862,Positive
+1,AI,I absolutely love the new AI features! They are amazing.,0.862,Positive
+2,update,The latest update is terrible and full of bugs.,-0.4767,Negative
+3,product,The new product is good but the battery could be better.,0.7003,Positive
+3,battery,The new product is good but the battery could be better.,0.7003,Positive
+4,service,Very happy with the customer service. They solved my problem quickly.,0.5256,Positive
+4,customer service,Very happy with the customer service. They solved my problem quickly.,0.5256,Positive
+4,problem,Very happy with the customer service. They solved my problem quickly.,0.5256,Positive
+5,product,I am disappointed with the quality of this product.,-0.4767,Negative
+5,quality,I am disappointed with the quality of this product.,-0.4767,Negative
+6,technology,This technology is changing the way we work and learn.,0.0,Neutral
+7,software,The software crashes frequently and needs improvement.,0.4588,Positive
+9,product,"The product is okay, nothing special but not bad either.",0.5568,Positive
+10,interface,I hate the new interface. The old version was much better.,-0.2023,Negative
+11,AI,AI tools are making development much easier and faster.,0.4215,Positive
+12,support,Customer support was slow and did not help me at all.,0.1134,Positive
+13,performance,Great performance and excellent design. Very impressed!,0.9097,Positive
+13,design,Great performance and excellent design. Very impressed!,0.9097,Positive
+14,update,The latest update fixed most of the problems I had.,-0.4522,Negative
+14,problem,The latest update fixed most of the problems I had.,-0.4522,Negative
+15,service,Not satisfied with the service. There is still a lot to improve.,0.1451,Positive

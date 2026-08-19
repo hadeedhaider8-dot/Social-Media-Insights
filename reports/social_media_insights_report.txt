@@ -1,0 +1,25 @@
+SOCIAL MEDIA INSIGHTS REPORT
+============================================================
+
+OVERALL SENTIMENT
+Positive: 10 (66.67%)
+Negative: 4 (26.67%)
+Neutral: 1 (6.67%)
+
+Overall Sentiment Score: 0.2622
+Overall Sentiment: Positive
+
+ASPECT INSIGHTS
+Most Positive Aspect: design (0.9097)
+Most Negative Aspect: quality (-0.4767)
+Most Discussed Aspect: product (3 mentions)
+
+TOPIC INSIGHTS
+Most Important Topic: Topic 2
+Posts Associated With Topic: 8
+
+ACTIONABLE RECOMMENDATIONS
+1. Positive sentiment is dominant. The organization should maintain the current customer experience.
+2. The aspect 'quality' has the lowest sentiment. Improvement should be prioritized in this area.
+3. 'design' receives strong positive feedback. This strength should be maintained.
+4. 'product' is the most frequently discussed aspect. It should receive close attention in future analysis.

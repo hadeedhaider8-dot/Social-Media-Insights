@@ -1,0 +1,16 @@
+post_id,platform,username,text,hashtags,likes,comments,shares,date
+1,Twitter,user_001,"I absolutely love the new AI features! They are amazing.","#AI #Technology",245,32,18,2026-08-01
+2,Twitter,user_002,"The latest update is terrible and full of bugs.","#Update #Technology",87,21,9,2026-08-02
+3,Reddit,user_003,"The new product is good but the battery could be better.","#Product #Review",156,28,12,2026-08-03
+4,Twitter,user_004,"Very happy with the customer service. They solved my problem quickly.","#CustomerService",312,41,25,2026-08-04
+5,Reddit,user_005,"I am disappointed with the quality of this product.","#Review #Product",98,35,7,2026-08-05
+6,Twitter,user_006,"This technology is changing the way we work and learn.","#AI #Future",421,52,36,2026-08-06
+7,Reddit,user_007,"The software crashes frequently and needs improvement.","#Software #Bug",76,19,5,2026-08-07
+8,Twitter,user_008,"Excellent experience! I would definitely recommend it to others.","#Experience #Review",389,47,31,2026-08-08
+9,Reddit,user_009,"The product is okay, nothing special but not bad either.","#Product",112,16,8,2026-08-09
+10,Twitter,user_010,"I hate the new interface. The old version was much better.","#Interface #Update",134,29,11,2026-08-10
+11,Twitter,user_011,"AI tools are making development much easier and faster.","#AI #Development",276,34,22,2026-08-11
+12,Reddit,user_012,"Customer support was slow and did not help me at all.","#Support #CustomerService",64,27,4,2026-08-12
+13,Twitter,user_013,"Great performance and excellent design. Very impressed!","#Technology #Design",458,61,39,2026-08-13
+14,Reddit,user_014,"The latest update fixed most of the problems I had.","#Update #Software",203,24,15,2026-08-14
+15,Twitter,user_015,"Not satisfied with the service. There is still a lot to improve.","#Service #Feedback",91,33,6,2026-08-15
